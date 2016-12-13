@@ -2,3 +2,6 @@
 test repository
 
 This additional message is being used as part of a tutorial. This exercise centers on acquiring data from a remote repository, merging the changes onto the local repo, and then pushing those changes onto the remote repository.
+
+This is another change for the tutorial
+- Deleted newfile from tumultu repo
